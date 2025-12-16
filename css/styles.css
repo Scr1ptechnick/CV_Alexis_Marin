@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 100%;
+    background: darkblue;
+    color: white;
+    padding-top: 16px;
+    padding-bottom: 1rem;
+}
+
+header img{
+    width: 200px;
+    margin-left: 46px;
+    border-radius: 100%;
+
+}
+
+footer {
+    width: 100%;
+    background: darkblue;
+    color: white;
+    padding-top: 16px;
+    padding-bottom: 1rem;
+}
